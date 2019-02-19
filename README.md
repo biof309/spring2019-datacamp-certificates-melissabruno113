@@ -12,3 +12,5 @@ Finally able to make quick changes in VS code
 Reminder to sync in VS code in order for changes to go online.
 
 To pull code on pycharm, right click file > git > repository > pull
+
+Perhaps you also need to synchronize in pycharm to send to git as well.
