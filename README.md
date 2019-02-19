@@ -5,4 +5,6 @@ Getting used to a markdown file is important.
 
 Adding new text to readme
 
-making changes to test on gi
+making changes to test on git
+
+Finally able to make quick changes in VS code
